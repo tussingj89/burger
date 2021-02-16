@@ -1,0 +1,14 @@
+body {
+background-color: cadetblue;
+font-size: larger;
+}
+h1, h2, li, label {
+    color: black;
+}
+h1 {
+   align-items: center;
+}
+label {
+    font-weight: bolder;
+}
+
