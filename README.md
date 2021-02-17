@@ -33,7 +33,7 @@
   <img src="./assets/sampleCode.png" alt="Burger-Eater"/>
 
   ## Screenshots
-  <img src="/assets/snapshot.gif" alt="Burger-Eater"/>
+  <img src="./assets/snapshot.png" alt="Burger-Eater"/>
 
   ## License
   MIT License - see the [LICENSE.txt](https://github.com/tussingj89/Burger-Eater/blob/main/LICENSE.txt) file for details
