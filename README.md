@@ -30,10 +30,10 @@
 
   ## Code Sample
   With the use of an ORM you can call upon MySQL without having to write a new connection request each time. Simply call upon the individual request and fit in the input needed to complete the call.
-  <img src="./assets/sampleCode.png" alt="Burger-Eater"/>
+  <img src="./public/assets/sampleCode.png" alt="Burger-Eater"/>
 
   ## Screenshots
-  <img src="./assets/snapshot.png" alt="Burger-Eater"/>
+  <img src="./public/assets/snapshot.png" alt="Burger-Eater"/>
 
   ## License
   MIT License - see the [LICENSE.txt](https://github.com/tussingj89/Burger-Eater/blob/main/LICENSE.txt) file for details
