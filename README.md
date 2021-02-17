@@ -20,6 +20,7 @@
 
   ## Installation
    No installation needed, just follow the link below to view and enjoy.
+   https://polar-island-36106.herokuapp.com/
 
   ## Usage
   this projects use is to showcase the benefits of using MySQL, Node, Express, Handlebars, and ORM to build and manage a website.
