@@ -23,13 +23,13 @@
    https://polar-island-36106.herokuapp.com/
 
   ## Usage
-  this projects use is to showcase the benefits of using MySQL, Node, Express, Handlebars, and ORM to build and manage a website.
+  This projects use is to showcase the benefits of using MySQL, Node, Express, Handlebars, and ORM to build and manage a website and its database.
 
   ## Technologies Used:
   MySQL, Node, Express, Handlebars, ORM, CSS, HTML, Javascript, and Jquery.
 
   ## Code Sample
-  With the use of an ORM you can call upon MySQL without having to write a new connection request each time. Simply call upon the individual request and fit in the input needed to complete the call.
+  With the use of an ORM you can call upon MySQL without having to write a new connection request each time. Simply call upon the individual request and fill in the input needed to complete the call.
   <img src="./public/assets/sampleCode.png" alt="Burger-Eater"/>
 
   ## Screenshots
