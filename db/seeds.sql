@@ -4,4 +4,4 @@ VALUES ("cheeseburger", true),
 ("bacon cheeseburger", true),
 ("deluxe burger", false),
 ("vegan burger", false),
-("soy pattie burger", false);
+("soy patty burger", false);
