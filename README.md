@@ -19,17 +19,17 @@
   - [Questions and Feedback](#questions-and-feedback)
 
   ## Installation
-   No installation needed, just follow the link below to view and enjoy.
+   No installation needed. Just follow the link below to view and enjoy.
    https://polar-island-36106.herokuapp.com/
 
   ## Usage
-  This projects use is to showcase the benefits of using MySQL, Node, Express, Handlebars, and ORM to build and manage a website and its database.
+  This project's use is to showcase the benefits of using MySQL, Node, Express, Handlebars, and ORM to build and manage a website and its database.
 
   ## Technologies Used:
   MySQL, Node, Express, Handlebars, ORM, CSS, HTML, Javascript, and Jquery.
 
   ## Code Sample
-  With the use of an ORM you can call upon MySQL without having to write a new connection request each time. Simply call upon the individual request and fill in the input needed to complete the call.
+  With the use of an ORM you can call upon MySQL without having to write a new connection request each time. Simply call upon the individual request and provide the input needed to complete the call.
   <img src="./public/assets/sampleCode.png" alt="Burger-Eater"/>
 
   ## Screenshots
@@ -39,7 +39,7 @@
   MIT License - see the [LICENSE.txt](https://github.com/tussingj89/Burger-Eater/blob/main/LICENSE.txt) file for details
   
   ## Testing 
-  There are no test available at this time.
+  There are no tests available at this time.
 
   ## Contributing
   When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
